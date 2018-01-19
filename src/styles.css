@@ -1,0 +1,15 @@
+.test {
+  color: #00FFFF;
+}
+
+.note-stub {
+  background-color: olive;
+}
+
+.note-stub:hover {
+  background-color: lightgray;
+}
+
+#vertical-edit {
+  text-align: center;
+}
